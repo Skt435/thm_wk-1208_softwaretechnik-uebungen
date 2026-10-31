@@ -24,8 +24,8 @@ GitHub-Benutzername in Kleinbuchstaben.
    Repository ist öffentlich.
 
 Läuft opencode bei Ihnen nicht, reichen Sie trotzdem ein: nur
-`einrichtung.md`, mit *nein* bei „Läuft der Agent?“ und einem Beleg im
-Abschnitt „Wenn es nicht läuft“ — Schritt, Befehl samt Ausgabe (wörtlich)
+`einrichtung.md`, mit *nein* oder *teilweise* bei „Läuft der Agent?“ und
+einem Beleg im Abschnitt „Wenn es nicht läuft“ — Schritt, Befehl samt Ausgabe (wörtlich)
 und was Sie bereits versucht haben.
 
 Wer schon mit Claude Code, Codex oder einem ähnlichen Agenten arbeitet, darf
