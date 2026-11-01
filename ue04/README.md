@@ -1,8 +1,8 @@
 # Übung 4 — Einen Coding Agent einrichten
 
-In dieser Übung installieren Sie den Coding Agent opencode, verbinden ihn mit
-einem Sprachmodell und setzen ihn zum ersten Mal in Ihrem lokalen Klon
-dieses Repositorys ein. Die Aufgaben stehen im
+In dieser Übung installieren Sie einen Coding Agent — das Übungsblatt
+beschreibt opencode —, verbinden ihn mit einem Sprachmodell und setzen ihn
+zum ersten Mal in Ihrem lokalen Klon dieses Repositorys ein. Die Aufgaben stehen im
 [Übungsblatt](https://carstenlucke.github.io/thm_wk-1208_softwaretechnik/ue04-coding-agent/).
 
 ## Was Sie einreichen
@@ -14,7 +14,7 @@ GitHub-Benutzername in Kleinbuchstaben.
 | Datei | Aufgabe | Woher |
 |---|---|---|
 | `einrichtung.md` | 1 und 2 — womit Sie arbeiten, und ob die Antwort des Agenten stimmt | aus `_vorlage/` |
-| `sitzung.md` | 2 — die Sitzung mit dem Agenten | entsteht mit `/export` in opencode |
+| `sitzung.md` | 2 — die Sitzung mit dem Agenten | entsteht mit `/export` in Ihrem Agenten |
 
 1. Kopieren Sie das Verzeichnis `_vorlage` nach `<benutzername>`. Die Vorlage
    selbst bleibt unverändert.
@@ -23,7 +23,7 @@ GitHub-Benutzername in Kleinbuchstaben.
    Namen Ihres Kontos auf dem Rechner, Namen und E-Mail-Adressen; das
    Repository ist öffentlich.
 
-Läuft opencode bei Ihnen nicht, reichen Sie trotzdem ein: nur
+Läuft Ihr Agent nicht, reichen Sie trotzdem ein: nur
 `einrichtung.md`, mit *nein* oder *teilweise* bei „Läuft der Agent?“ und
 einem Beleg im Abschnitt „Wenn es nicht läuft“ — Schritt, Befehl samt Ausgabe (wörtlich)
 und was Sie bereits versucht haben.
