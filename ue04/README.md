@@ -28,8 +28,10 @@ Läuft opencode bei Ihnen nicht, reichen Sie trotzdem ein: nur
 einem Beleg im Abschnitt „Wenn es nicht läuft“ — Schritt, Befehl samt Ausgabe (wörtlich)
 und was Sie bereits versucht haben.
 
-Wer schon mit Claude Code, Codex oder einem ähnlichen Agenten arbeitet, darf
-ihn verwenden und trägt ihn in `einrichtung.md` unter „Werkzeug“ ein.
+Das Übungsblatt beschreibt opencode, schreibt es aber nicht vor. Wer schon
+mit einem anderen Agenten arbeitet — Claude Code, Codex, GitHub Copilot in
+VS Code oder als Copilot CLI, eine andere Erweiterung —, darf ihn verwenden
+und trägt ihn in `einrichtung.md` unter „Werkzeug“ ein.
 
 Weitere Dateien, welche der Agent anlegt, gehören nicht in den Pull Request.
 

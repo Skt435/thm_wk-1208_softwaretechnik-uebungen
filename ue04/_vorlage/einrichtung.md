@@ -20,15 +20,16 @@
      startet, aber ein Schritt danach scheitert (Anmeldung, Antwort,
      Export). Bei teilweise und nein belegen Sie unten unter „Wenn es nicht
      läuft“, woran es scheitert; ohne laufenden Agenten entfällt sitzung.md.
-     Werkzeug: opencode, oder wer schon damit arbeitet, Claude Code, Codex
-     oder ein anderer Agent. Version: Ausgabe von `opencode --version` bzw.
+     Werkzeug: opencode, oder wer schon damit arbeitet, Claude Code, Codex,
+     GitHub Copilot (in VS Code oder als Copilot CLI) oder ein anderer
+     Agent. Version: Ausgabe von `opencode --version` bzw.
      die Versionsangabe Ihres Werkzeugs.
      Betriebssystem: macOS, Windows, Windows mit WSL oder Linux.
      Modellzugang: GitHub Copilot, ChatGPT, OpenCode Zen (kostenlos), Claude
      oder ein anderer. Modell: so, wie es in der Auswahl heißt, in opencode
      unter /models. -->
 
-## Stimmt das?
+## Antwort des Agenten geprüft
 
 <!-- Aufgabe 2, Schritt 8: Vergleichen Sie die Antwort des Agenten in
      sitzung.md mit dem, was Sie selbst wissen. Hat er alle Ihre Dateien
