@@ -1,4 +1,4 @@
-# Steckbrief Nya Ornela
+# Steckbrief nko
 
 ## Studiengang und Semester
 
