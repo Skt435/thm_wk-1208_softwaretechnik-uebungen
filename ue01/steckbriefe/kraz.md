@@ -1,4 +1,4 @@
-# Steckbrief kraz(Kamyab Razeghizeidi)
+# Steckbrief kraz
 
 ## Studiengang und Semester
 
