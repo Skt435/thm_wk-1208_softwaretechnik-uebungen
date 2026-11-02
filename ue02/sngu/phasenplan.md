@@ -4,7 +4,7 @@ Kürzel: sngu
 
 ## Studie
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Machbarkeitsstudie / Projektskizze
 
 - Eigenentwicklung, Anpassung einer Open-Source-Lösung und Kauf nebeneinanderstellen und nach Kosten und Nutzen bewerten
 - Die heutige Lage aufnehmen: wie Sprechstunden und Prüfungstermine bisher vereinbart werden und wo es hakt
@@ -12,7 +12,7 @@ Kürzel: sngu
 
 ## Systemspezifikation
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Pflichtenheft / Anforderungsspezifikation
 
 - Mit Lehrenden und Sekretariaten Schritt für Schritt beschreiben, wie ein Sprechstundentermin gebucht wird
 - Festlegen, welche Vorgänge ein KI-Agent über die API auslösen darf — z.B. freie Termine abfragen und buchen, aber keine Prüfungstermine absagen
@@ -23,7 +23,7 @@ Kürzel: sngu
 
 ## Systemkonstruktion
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Architekturentwurf / Systementwurf
 
 - Das System in Komponenten zerlegen — z.B. Terminverwaltung, Benachrichtigung, Anmeldung — und deren Schnittstellen festlegen
 - Datenbank, Programmiersprache und Web-Framework auswählen
@@ -33,14 +33,14 @@ Kürzel: sngu
 
 ## Implementierung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Quellcode / Lauffähige Softwarekomponenten
 
 - Die Komponente „Benachrichtigung“ programmieren
 - Die fertige Komponente „Terminverwaltung“ für sich testen, ehe sie mit anderen zusammenkommt
 
 ## Integration & Einführung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Getestetes Gesamtsystem / Abnahmeprotokoll
 
 - Die THM installiert das System in ihrer eigenen Umgebung und prüft es in eigener Verantwortung
 - Das System als Ganzes unter Federführung des Qualitätsbeauftragten gegen die Testfälle prüfen
@@ -50,7 +50,7 @@ Kürzel: sngu
 
 ## Wartung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Wartungsprotokoll / Aktualisiertes System
 
 - Einen Fehler bei der Zeitumstellung beheben, den ein Sekretariat gemeldet hat
 - Eine Hotline für Fragen der Anwenderinnen und Anwender besetzen
