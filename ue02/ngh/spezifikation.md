@@ -2,10 +2,6 @@
 
 Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @NathanGhe
 
-<!-- Je Abschnitt Ihrer Gliederung eine Überschrift (## für Abschnitte, ###
-     für Unterabschnitte) und darunter ein Beispiel aus dem Terminplaner,
-     d.h. so, wie Sie den Sachverhalt in diesem Abschnitt festhalten würden.
-     Die beiden Überschriften unten sind lediglich Platzhalter. -->
 
 ## Ziel und Umfang
 

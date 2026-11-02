@@ -4,7 +4,7 @@ Kürzel: ngh
 
 ## Studie
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Studie als Entscheidungsvorlage
 
 - Eigenentwicklung, Anpassung einer Open-Source-Lösung und Kauf nebeneinanderstellen und nach Kosten und Nutzen bewerten
 - Die heutige Lage aufnehmen: wie Sprechstunden und Prüfungstermine bisher vereinbart werden und wo es hakt
@@ -13,7 +13,7 @@ Kürzel: ngh
 
 ## Systemspezifikation
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Spezifikation
 
 - Mit Lehrenden und Sekretariaten Schritt für Schritt beschreiben, wie ein Sprechstundentermin gebucht wird
 - Festlegen, welche Vorgänge ein KI-Agent über die API auslösen darf — z.B. freie Termine abfragen und buchen, aber keine Prüfungstermine absagen
@@ -24,7 +24,7 @@ Kürzel: ngh
 
 ## Systemkonstruktion
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Konstruktion (technischer Entwurf)
 
 - Das System in Komponenten zerlegen — z.B. Terminverwaltung, Benachrichtigung, Anmeldung — und deren Schnittstellen festlegen
 - Datenbank, Programmiersprache und Web-Framework auswählen
@@ -33,14 +33,14 @@ Kürzel: ngh
 
 ## Implementierung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Programmierte und getestete Komponenten
 
 - Die Komponente „Benachrichtigung“ programmieren
 - Die fertige Komponente „Terminverwaltung“ für sich testen, ehe sie mit anderen zusammenkommt
 
 ## Integration & Einführung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Abgenommenes, eingeführtes System
 
 - Die THM installiert das System in ihrer eigenen Umgebung und prüft es in eigener Verantwortung
 - Terminverwaltung und Benachrichtigung zusammenführen und ihr Zusammenspiel gegen Testfälle prüfen
@@ -50,7 +50,7 @@ Kürzel: ngh
 
 ## Wartung
 
-**Ergebnis der Phase:** …
+**Ergebnis der Phase:** Neue, verbesserte Versionen (Releases)
 
 - Einen Fehler bei der Zeitumstellung beheben, den ein Sekretariat gemeldet hat
 - Eine Hotline für Fragen der Anwenderinnen und Anwender besetzen
